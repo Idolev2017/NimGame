@@ -15,7 +15,7 @@
 #include "sp_nim.h"
 #include "SPBufferset.h"
 #define MAXSIZE 32
-
+#define dubi "gal"
 int main(void) {
 
 	SP_BUFF_SET();
